@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="20954" start="node2" appversion="7.1.5">
+  <panorama id="node2">
+    <input height="609" levelbiashidpi="1.000" overlap="1" levelingpitch="0" levelbias="0.400" leveltilesize="510" width="609" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level height="609" predecode="0" width="609" preload="0"/>
+      <level height="304" predecode="1" width="304" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" fov="100" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min fovpixel="2" pan="-180" tilt="-49.8939"/>
+      <max pan="180" tilt="49.8939" fov="140" fovfisheye="360" fovstereographic="330"/>
+    </view>
+    <userdata comment="" title="" datetime="" heading="0" description="" info="" customnodeid="" latitude="" source="" author="" copyright="" tags="Downloads" longitude="" nodeid="node2"/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label height="20" backgroundcolor="0xffffff" border="1" borderalpha="1" borderradius="1" enabled="1" backgroundalpha="1" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+    </hotspots>
+    <media>
+      <image height="1280" pan="105.440" roty="7.410" tilt="5.780" handcursor="0" fov="22.830" stretch="0.990" clickmode="4" popbackmode="0" hidepinned="0" rotx="2.190" popoutscaling="100" id="Element01" width="960" rotz="-2.990">
+        <source url="media/WhatsApp Image 2025-04-19 at 08.45.30-2.jpeg"/>
+      </image>
+    </media>
+    <transition zoomin="0" zoomfov="40" delay="none" zoomafterinfov="140" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" blendtime="1" type="crossdissolve" softedge="0" zoomspeed="2" zoomout="0" zoomoutpause="1"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboard="0" contextfullscreen="1" hideabout="0" contextvr="1" lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" dblclickfullscreen="0" invertwheel="0" contextprojections="0" rubberband="0" speedwheel="1" sensitivity="8" simulatemass="1" invertcontrol="1" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" copyright="" comment="" title="" description="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
